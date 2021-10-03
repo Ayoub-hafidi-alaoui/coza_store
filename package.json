@@ -9,8 +9,9 @@
   "author": "ayoub",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^5",
     "font-awesome": "^4.7.0",
+    "fontawesome": "^5.6.3",
     "jquery": "^3.6",
     "poper": "^0.1.1"
   }

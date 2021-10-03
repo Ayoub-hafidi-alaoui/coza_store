@@ -1,0 +1,26 @@
+.navbar a {
+    text-transform: capitalize;
+    color: #fff !important;
+}
+.navbar .fa-shopping-cart {
+    color: #fff;
+    padding-right: 25px;
+    font-size: 25px;
+    border-right: 1px solid rgba(255,255,255,.1);
+}
+.navbar .fa-bars {
+    font-size: 25px;
+
+}
+.fa-shopping-cart:after {
+    content: "2";
+    background-color: #717fe0;
+    position: absolute;
+    top: 7px;
+    right: 81px;
+    width: 15px;
+    height: 15px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 15px;
+}
